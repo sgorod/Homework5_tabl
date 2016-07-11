@@ -1,0 +1,127 @@
+table{
+	border-collapse: collapse;
+	margin:  0 auto;
+}
+
+td {border: 10px solid #0d0c0c;}
+ 
+.cell1{
+	width: 110px;
+	height: 45px;
+	border-top: none;
+	border-left: none;
+}
+.cell2{
+	width: 185px;
+	height: 45px;
+	border-top: none;
+}
+.cell3{
+	width: 150px;
+	height: 45px;
+	background: #fffc67;
+	border-top: none;
+	border-right: none;
+}
+.cell4{
+	width: 50px;
+	height: 125px;
+	border-left: none;
+}
+.cell5{
+	width: 245px;
+	height: 255px;
+	background: #ff5e41;
+	
+}
+.cell6{
+	width: 150px;
+	height: 125px;
+	background: #fffc67;
+	border-right: none;
+}
+.cell7{
+	width: 50px;
+	height: 190px;
+	border-left: none;
+}
+.cell8{
+	width: 75px;
+	height: 130px;
+	
+}
+.cell9{
+	width: 75px;
+	height: 130px;
+	border-right: none;
+}
+.cell10{
+	width: 60px;
+	height: 60px;
+	background: #060707;
+	
+}
+.cell11{
+	width: 60px;
+	height: 60px;
+	background: #060707;
+	
+}
+.cell12{
+	width: 125px;
+	height: 60px;
+	
+}
+.cell13{
+	width: 150px;
+	height: 60px;
+	border-right: none;
+}
+.cell14{
+	width: 50px;
+	height: 110px;
+	background:  #fffc67;
+	border-left: none;
+	border-bottom: none;
+}
+.cell15{
+	width: 60px;
+	height: 55px;
+	background: #060707;
+	
+}
+.cell16{
+	width: 60px;
+	height: 55px;
+	background: #060707;
+	
+}
+.cell17{
+	width: 125px;
+	height: 55px;
+	
+}
+.cell18{
+	width: 150px;
+	height: 80px;
+	background: #0e4b8b;
+	border-right: none;
+}
+.cell19{
+	width: 120px;
+	height: 55px;
+	border-bottom: none;
+}
+.cell20{
+	width: 125px;
+	height: 25px;
+	background: #060707;
+	
+}
+.cell21{
+	width: 275px;
+	height: 30px;
+	border-bottom: none;
+	border-right: none;
+}
+ 
